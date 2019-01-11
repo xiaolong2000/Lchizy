@@ -1,0 +1,8 @@
+D:\数据表查询\CodeFirstNewDatabaseSample02\bin\Debug\ConsoleApplication1.exe.config
+D:\数据表查询\CodeFirstNewDatabaseSample02\bin\Debug\ConsoleApplication1.exe
+D:\数据表查询\CodeFirstNewDatabaseSample02\bin\Debug\ConsoleApplication1.pdb
+D:\数据表查询\CodeFirstNewDatabaseSample02\obj\Debug\CodeFirstNewDatabaseSample.csproj.GenerateResource.Cache
+D:\数据表查询\CodeFirstNewDatabaseSample02\obj\Debug\ConsoleApplication1.exe
+D:\数据表查询\CodeFirstNewDatabaseSample02\obj\Debug\ConsoleApplication1.pdb
+D:\数据表查询\CodeFirstNewDatabaseSample02\obj\Debug\CodeFirstNewDatabaseSample.csprojResolveAssemblyReference.cache
+D:\数据表查询\CodeFirstNewDatabaseSample02\obj\Debug\CodeFirstNewDatabaseSample.Migrations.InitialCreate.resources
